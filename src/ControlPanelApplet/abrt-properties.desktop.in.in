@@ -1,0 +1,9 @@
+[Desktop Entry]
+_Name=Crash Report Configuration
+_Comment=Set your crash reporting preferences
+Exec=abrt-properties
+Icon=abrt
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=GNOME;Settings;DesktopSettings;
