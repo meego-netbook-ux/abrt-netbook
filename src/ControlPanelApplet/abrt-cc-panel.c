@@ -181,12 +181,11 @@ abrt_cc_panel_make_contents (AbrtCcPanel *panel)
 
   label = gtk_label_new (_("PRIVACY NOTE: Enabling this option will cause your system to "
                            "submit certain application output to the corewatcher.org website."
-                           "This will allow the information to be viewed by developers as well "
-                           "as regular users.  The information submittted includes a backtrace, "
-                           "which is an application's crash signature. However, due to the nature "
-                           "of backtraces, it may happen that a few instances of user input may be "
+                           "This will allow the information to be viewed by developers as well"
+                           "as regular users.  The information submittted will include a backtrace,"
+                           "which is an application's crash signature. Howerver, due to the nautre"
+                           "of backtraces, it may happen that a few instances of user input will be"
                            "sent together with the backtrace."));
-
   gtk_label_set_line_wrap (GTK_LABEL (label), TRUE);
   gtk_misc_set_alignment (GTK_MISC (label), 0.0, 0.5);
   gtk_widget_show (label);
