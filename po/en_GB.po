@@ -3,46 +3,43 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: ABRT\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-03-30 16:17+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2010-05-05 03:31+0000\n"
+"PO-Revision-Date: 2010-05-04 23:14-0800\n"
+"Last-Translator: Margie Foster <margie@linux.intel.com>\n"
+"Language-Team: British English <margie@linux.intel.com>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED KINGDOM\n"
+"X-Poedit-SourceCharset: utf-8\n"
 
 #: ../src/ControlPanelApplet/abrt-cc-panel.c:143
 msgid "Crash report configuration"
-msgstr ""
+msgstr "Crash report configuration"
 
 #: ../src/ControlPanelApplet/abrt-cc-panel.c:159
-msgid ""
-"Automatically submit application crash reports to MeeGo reporting database?"
-msgstr ""
+msgid "Automatically submit application crash reports to MeeGo reporting database?"
+msgstr "Automatically submit application crash reports to MeeGo reporting database?"
 
 #: ../src/ControlPanelApplet/abrt-cc-panel.c:182
-msgid ""
-"PRIVACY NOTE: Enabling this option will cause your system to submit certain "
-"application output to the corewatcher.org website.This will allow the "
-"information to be viewed by developers as wellas regular users.  The "
-"information submittted will include a backtrace,which is an application's "
-"crash signature. Howerver, due to the nautreof backtraces, it may happen "
-"that a few instances of user input will besent together with the backtrace."
-msgstr ""
+msgid "PRIVACY NOTE: Enabling this option will cause your system to submit certain application output to the corewatcher.org website.This will allow the information to be viewed by developers as wellas regular users.  The information submittted will include a backtrace,which is an application's crash signature. Howerver, due to the nautreof backtraces, it may happen that a few instances of user input will besent together with the backtrace."
+msgstr "PRIVACY NOTE: Enabling this option will cause your system to submit certain application output to the corewatcher.org website. This allows the information to be viewed by developers as well as regular users.  The information submittted includes a backtrace, which is an application's crash signature. Howerver, due to the nature of backtraces, it may happen that a few instances of user input may be sent with the backtrace."
 
 #: ../src/ControlPanelApplet/abrt-cc-panel.c:232
 msgid "Crash Reporting Configuration"
-msgstr ""
+msgstr "Crash Reporting Configuration"
 
 #: ../src/ControlPanelApplet/abrt-properties.desktop.in.in.h:1
 msgid "Crash Report Configuration"
-msgstr ""
+msgstr "Crash Report Configuration"
 
 #: ../src/ControlPanelApplet/abrt-properties.desktop.in.in.h:2
 msgid "Set your crash reporting preferences"
-msgstr ""
+msgstr "Set your crash reporting preferences"
+
