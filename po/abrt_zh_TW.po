@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-05 09:53+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Tomás Galicia <tomas.galicia@intel.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-Country: TAIWAN\n"
+
+#: ../src/ControlPanelApplet/abrt-cc-panel.c:143
+msgid "Crash report configuration"
+msgstr "當機報告組態"
+
+#: ../src/ControlPanelApplet/abrt-cc-panel.c:159
+msgid "Automatically submit application crash reports to MeeGo reporting database?"
+msgstr "要自動提交應用程式當機報告報告到 MeeGo 報告資料庫嗎？"
+
+#: ../src/ControlPanelApplet/abrt-cc-panel.c:182
+msgid "PRIVACY NOTE: Enabling this option will cause your system to submit certain application output to the corewatcher.org website.This will allow the information to be viewed by developers as wellas regular users.  The information submittted will include a backtrace,which is an application's crash signature. Howerver, due to the nautreof backtraces, it may happen that a few instances of user input will besent together with the backtrace."
+msgstr "隱私權注意：啟用此選項將使您的系統提交某些應用程式的輸出內容到 corewatcher.org 網站。這樣允許該資訊被開發者以及終端使用者檢視。提交的資訊將包括「回溯」內容，它是一種應用程式當機時的識別記號。然而，由於回溯內容的特性，也可能發生將使用者輸入的一些內容與回溯一同回報的情況。"
+
+#: ../src/ControlPanelApplet/abrt-cc-panel.c:232
+msgid "Crash Reporting Configuration"
+msgstr "當機報告組態"
+
+#: ../src/ControlPanelApplet/abrt-properties.desktop.in.in.h:1
+msgid "Crash Report Configuration"
+msgstr "當機報告組態"
+
+#: ../src/ControlPanelApplet/abrt-properties.desktop.in.in.h:2
+msgid "Set your crash reporting preferences"
+msgstr "設定當機報告喜好設定"
+

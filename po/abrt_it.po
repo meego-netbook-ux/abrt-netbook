@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-05 09:53+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Tomás Galicia <tomas.galicia@intel.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+
+#: ../src/ControlPanelApplet/abrt-cc-panel.c:143
+msgid "Crash report configuration"
+msgstr "Configurazione del rapporto dei crash"
+
+#: ../src/ControlPanelApplet/abrt-cc-panel.c:159
+msgid "Automatically submit application crash reports to MeeGo reporting database?"
+msgstr "Inviare automaticamente i rapporti dei crash dell'applicazione al database di MeeGo?"
+
+#: ../src/ControlPanelApplet/abrt-cc-panel.c:182
+msgid "PRIVACY NOTE: Enabling this option will cause your system to submit certain application output to the corewatcher.org website.This will allow the information to be viewed by developers as wellas regular users.  The information submittted will include a backtrace,which is an application's crash signature. Howerver, due to the nautreof backtraces, it may happen that a few instances of user input will besent together with the backtrace."
+msgstr "NOTA SULLA PRIVACY: l'attivazione di questa opzione fa sì che il sistema presenti un certo output di applicazione al sito corewatcher.org. Questo consentirà agli sviluppatori e agli utenti finali di visualizzare le informazioni. Le informazioni inviate includeranno un backtrace, signature crash di un'applicazione. Tuttavia, a causa della natura del backtrace, potrebbe succedere che alcuni casi di input dell'utente vengano inviati insieme al backtrace."
+
+#: ../src/ControlPanelApplet/abrt-cc-panel.c:232
+msgid "Crash Reporting Configuration"
+msgstr "Configurazione del rapporto dei crash"
+
+#: ../src/ControlPanelApplet/abrt-properties.desktop.in.in.h:1
+msgid "Crash Report Configuration"
+msgstr "Configurazione del rapporto dei crash"
+
+#: ../src/ControlPanelApplet/abrt-properties.desktop.in.in.h:2
+msgid "Set your crash reporting preferences"
+msgstr "Imposta le tue preferenze sul rapporto dei crash"
+

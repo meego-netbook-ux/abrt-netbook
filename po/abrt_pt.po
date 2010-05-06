@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-05 09:53+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Tomás Galicia <tomas.galicia@intel.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-Country: BRAZIL\n"
+
+#: ../src/ControlPanelApplet/abrt-cc-panel.c:143
+msgid "Crash report configuration"
+msgstr "Configuração de relatório de pane"
+
+#: ../src/ControlPanelApplet/abrt-cc-panel.c:159
+msgid "Automatically submit application crash reports to MeeGo reporting database?"
+msgstr "Enviar automaticamente os relatórios de pane de aplicativo para o banco de dados relatante MeeGo?"
+
+#: ../src/ControlPanelApplet/abrt-cc-panel.c:182
+msgid "PRIVACY NOTE: Enabling this option will cause your system to submit certain application output to the corewatcher.org website.This will allow the information to be viewed by developers as wellas regular users.  The information submittted will include a backtrace,which is an application's crash signature. Howerver, due to the nautreof backtraces, it may happen that a few instances of user input will besent together with the backtrace."
+msgstr "NOTA DE PRIVACIDADE: Habilitação dessa opção causará seu sistema a enviar certas saídas de aplicativo para o site corewatcher.org. Isto permitirá a visualização das informações por desenvolvedores bem como usuários normais. As informações enviadas incluirão um backtrace, o que é uma assinatura do pane de aplicativo. Entretanto, devido as características de backtraces, poder ocorrerá que algumas instâncias de entrada de usuário serão enviadas juntas com o backtrace."
+
+#: ../src/ControlPanelApplet/abrt-cc-panel.c:232
+msgid "Crash Reporting Configuration"
+msgstr "Configuração de relato de pane"
+
+#: ../src/ControlPanelApplet/abrt-properties.desktop.in.in.h:1
+msgid "Crash Report Configuration"
+msgstr "Configuração de relatório de pane"
+
+#: ../src/ControlPanelApplet/abrt-properties.desktop.in.in.h:2
+msgid "Set your crash reporting preferences"
+msgstr "Configure sua preferências de relato de pane"
+
