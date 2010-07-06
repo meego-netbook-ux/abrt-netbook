@@ -1,0 +1,43 @@
+# Galician translations for abrt-netbook.
+# Copyright (C) 2010 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the abrt-netbook package.
+# Miguel Anxo Bouzada <mbouzada@gmail.com>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: abrt-netbook\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-29 19:50+0000\n"
+"PO-Revision-Date: 2010-07-06 13:38+0100\n"
+"Last-Translator: Miguel Anxo Bouzada <mbouzada@gmail.com>\n"
+"Language-Team: Galician <proxecto@trasno.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Galician\n"
+
+#: ../src/ControlPanelApplet/abrt-cc-panel.c:143
+msgid "Crash report configuration"
+msgstr "Configuración do informe de fallos"
+
+#: ../src/ControlPanelApplet/abrt-cc-panel.c:159
+msgid "Automatically submit application crash reports to MeeGo reporting database?"
+msgstr "Enviar directamente a MeeGo os informes que se creen cando fallen os aplicativos?"
+
+#: ../src/ControlPanelApplet/abrt-cc-panel.c:182
+msgid "PRIVACY NOTE: Enabling this option will cause your system to submit certain application output to the corewatcher.org website.This will allow the information to be viewed by developers as wellas regular users.  The information submittted will include a backtrace,which is an application's crash signature. Howerver, due to the nautreof backtraces, it may happen that a few instances of user input will besent together with the backtrace."
+msgstr "NOTA SOBRE OS DATOS PERSONAIS: De activarse esta opción, o sistema enviará o sitio corewatcher.org algunha información sobre o aplicativo, que poderá ser vista polos desenvolvedores e os usuarios normais. A información conterá un «trazado inverso», que é o contido do fallo do aplicativo. Debido a súa natureza, é posíbel que os trazados inversos conteñan as veces algo de información sobre o que estaba a facer o usuario."
+
+#: ../src/ControlPanelApplet/abrt-cc-panel.c:232
+msgid "Crash Reporting Configuration"
+msgstr "Configuración do informe de fallos"
+
+#: ../src/ControlPanelApplet/abrt-properties.desktop.in.in.h:1
+msgid "Crash Report Configuration"
+msgstr "Configuración do informe de fallos"
+
+#: ../src/ControlPanelApplet/abrt-properties.desktop.in.in.h:2
+msgid "Set your crash reporting preferences"
+msgstr "Configure as súas preferencias para os informes de fallos"
+
