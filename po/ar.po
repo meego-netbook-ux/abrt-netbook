@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-29 19:50+0000\n"
+"PO-Revision-Date: 2010-07-08 15:02+0300\n"
+"Last-Translator: محمد الحرقان <malham1@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/ControlPanelApplet/abrt-cc-panel.c:143
+msgid "Crash report configuration"
+msgstr "إعداد تقارير الأخطاء"
+
+#: ../src/ControlPanelApplet/abrt-cc-panel.c:159
+msgid "Automatically submit application crash reports to MeeGo reporting database?"
+msgstr "عند إنهيار أحد التطبيقات أارسل تقرير  آلياً إلى قاعدة بيانات ميجو للأخطاء"
+
+#: ../src/ControlPanelApplet/abrt-cc-panel.c:182
+msgid "PRIVACY NOTE: Enabling this option will cause your system to submit certain application output to the corewatcher.org website.This will allow the information to be viewed by developers as wellas regular users.  The information submittted will include a backtrace,which is an application's crash signature. Howerver, due to the nautreof backtraces, it may happen that a few instances of user input will besent together with the backtrace."
+msgstr "سياسة الخصوصية : تمكين هذا الخيار يسمح للنظام الخاص بك أن يقدم بعض التقارير والنتائج إلى موقع  corewatcher.org ستسمح بعرض المعلومات على المطورين والمستخدمين ، سيتم إرسال معلومات عن التطبيق وبعض المعلومات عن الجهاز ، وقد يتضمن هذا قليل من المعلومات عن المستخدم"
+
+#: ../src/ControlPanelApplet/abrt-cc-panel.c:232
+msgid "Crash Reporting Configuration"
+msgstr "يُعد تقرير عن الانهيار"
+
+#: ../src/ControlPanelApplet/abrt-properties.desktop.in.in.h:1
+msgid "Crash Report Configuration"
+msgstr "إعداد تقارير الأخطاء"
+
+#: ../src/ControlPanelApplet/abrt-properties.desktop.in.in.h:2
+msgid "Set your crash reporting preferences"
+msgstr "إعداد تفضيلات مراقب الاعطال"
+
