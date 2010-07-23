@@ -2,7 +2,7 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Tomáš Virgl <tomas@virgl.net>, 2010.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: abrt-netbook.master\n"
@@ -17,22 +17,15 @@ msgstr ""
 
 #: ../src/ControlPanelApplet/abrt-cc-panel.c:143
 msgid "Crash report configuration"
-msgstr ""
+msgstr "Nastavenie hlásenia pádov"
 
 #: ../src/ControlPanelApplet/abrt-cc-panel.c:159
-msgid ""
-"Automatically submit application crash reports to MeeGo reporting database?"
-msgstr ""
+msgid "Automatically submit application crash reports to MeeGo reporting database?"
+msgstr "Posielať hlásenia o páde do databázy MeeGo automaticky?"
 
 #: ../src/ControlPanelApplet/abrt-cc-panel.c:182
-msgid ""
-"PRIVACY NOTE: Enabling this option will cause your system to submit certain "
-"application output to the corewatcher.org website.This will allow the "
-"information to be viewed by developers as wellas regular users.  The "
-"information submittted will include a backtrace,which is an application's "
-"crash signature. Howerver, due to the nautreof backtraces, it may happen "
-"that a few instances of user input will besent together with the backtrace."
-msgstr ""
+msgid "PRIVACY NOTE: Enabling this option will cause your system to submit certain application output to the corewatcher.org website.This will allow the information to be viewed by developers as wellas regular users.  The information submittted will include a backtrace,which is an application's crash signature. Howerver, due to the nautreof backtraces, it may happen that a few instances of user input will besent together with the backtrace."
+msgstr "POZNÁMKA K OCHRANE DAT: Zapnutie tejto voľby umožňuje niektorým programom posielať svoj výstup stránkam corewatcher.org. Tak budú tieto informácie môcť uvidieť vývojári aj obyčajní užívatelia. Zaslané údaje obsahujú spiatočný stopu, čo je značka pádu určitého programu. Môže sa ale stať, že spolu so spiatočnou stopou budú odoslané aj nejaké užívateľské dáta."
 
 #: ../src/ControlPanelApplet/abrt-cc-panel.c:232
 msgid "Crash Reporting Configuration"
@@ -44,4 +37,4 @@ msgstr "Nastavenie hlásenia pádov"
 
 #: ../src/ControlPanelApplet/abrt-properties.desktop.in.in.h:2
 msgid "Set your crash reporting preferences"
-msgstr ""
+msgstr "Nastavte svoje voľby ohlasovania pádov"
